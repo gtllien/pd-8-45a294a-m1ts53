@@ -1,0 +1,21 @@
+
+  - id: "5ff8-a56a-6f7a"
+    web:
+      metaDescription: ""
+      metaTitle: "Promotions"
+      metaLinkText: "Promotions"
+      metaKeywords: ""
+      pathPart: "promotions"
+      path: "/resources/promotions/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/resources/"
+    meta:
+      sort: 99
+      listed: false
+    data:
+      body_text: ""
+      main_image: ""
+      page_title: "Promotions"

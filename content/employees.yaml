@@ -1,0 +1,24 @@
+
+  - id: "d7bd-0330-eadf"
+    web:
+      metaDescription: ""
+      metaTitle: "Dr. Bergers"
+      metaLinkText: "Dr. Bergers"
+      metaKeywords: ""
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 1
+      listed: true
+    data:
+      employee_bio: "<p>Dr. Justin R. Berger, DVM graduated from the University of Missouri College of Veterinary Medicine in 1998. Prior to being a Mizzou graduate, Dr. Berger was united in marriage with Karen Bosch on October 11, 1997. After graduation he practiced in Springfield, MO before coming to Rolla and becoming the owner of Animal Health Center. Justin and Karen have three children: Henry, Ivy and Gracie. Dr. Berger and his family live on a farm where they not only raise cattle, horses and chickens, but where Jill and Shirley, the mules of Mizzou, reside at their forever retirement home, along with dogs and cats. In Dr. Berger&rsquo;s spare time, he enjoys taking his children to all kinds of outings, horseback riding, watching his wife compete in various horse shows, and watching his daughters compete in gymnastics.</p>"
+      employee_category: "7ae7-b9ab-5080"
+      employee_first_name: "Dr. Justin R."
+      employee_last_name: "Berger </br> DVM"
+      employee_photo: "https://cb5py9.media.zestyio.com/0-1.S1Tlud0nb.jpg"
+      sort_order: 1

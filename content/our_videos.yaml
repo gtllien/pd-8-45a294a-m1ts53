@@ -1,0 +1,21 @@
+
+  - id: "16f9-2e15-a3b3"
+    web:
+      metaDescription: ""
+      metaTitle: "Our Videos"
+      metaLinkText: "Our Videos"
+      metaKeywords: ""
+      pathPart: "our-videos"
+      path: "/resources/our-videos/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/resources/"
+    meta:
+      sort: 99
+      listed: false
+    data:
+      body_text: "<h4>&nbsp;</h4>"
+      main_image: ""
+      page_title: "Our Videos"

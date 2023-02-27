@@ -1,0 +1,24 @@
+
+  - id: "11f0-5b72-b909"
+    web:
+      metaDescription: "Animal Health Center of Rolla is locally owned & serves the Rolla, MO area. Call now for reliable care for your dog or cat."
+      metaTitle: "Animal Hospital in Rolla, MO"
+      metaLinkText: "Home"
+      metaKeywords: null
+      pathPart: "zesty_home"
+      path: "/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 0
+      listed: true
+    data:
+      background_pattern: "https://ddp2ys.media.zestyio.com/light-blue-vertical.jpeg"
+      homepage_title: "Animal Health Center of Rolla "
+      timeline_btn_links_to: "1569-d777-254c"
+      timeline_button_text: "Discover our services"
+      timeline_subtitle: "We offer the best care for pets of all ages"
+      timeline_title: "Pet Care for Every Age"

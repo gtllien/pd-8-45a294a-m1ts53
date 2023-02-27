@@ -1,0 +1,21 @@
+
+  - id: "6f7e-531e-1226"
+    web:
+      metaDescription: ""
+      metaTitle: "DO NOT USE"
+      metaLinkText: "DO NOT USE"
+      metaKeywords: ""
+      pathPart: "resources"
+      path: "/resources/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 8
+      listed: false
+    data:
+      body_text: ""
+      main_image: ""
+      page_title: "Resources"

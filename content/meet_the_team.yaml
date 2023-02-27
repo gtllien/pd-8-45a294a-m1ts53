@@ -1,0 +1,22 @@
+
+  - id: "38ef-e3c0-046f"
+    web:
+      metaDescription: ""
+      metaTitle: "Meet the Team"
+      metaLinkText: "Meet the Team"
+      metaKeywords: null
+      pathPart: "meet-the-team"
+      path: "/about-us/meet-the-team/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/about-us/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      body_text: null
+      main_image: "https://cb5py9.media.zestyio.com/JillandShirley02-1.jpg"
+      number_of_cols: "4"
+      page_title: "Meet the Team"

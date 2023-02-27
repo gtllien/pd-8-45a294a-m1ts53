@@ -1,0 +1,21 @@
+
+  - id: "e0ae-e1bf-cd9f"
+    web:
+      metaDescription: ""
+      metaTitle: "Careers"
+      metaLinkText: "Careers"
+      metaKeywords: ""
+      pathPart: "careers"
+      path: "/resources/careers/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/resources/"
+    meta:
+      sort: 99
+      listed: false
+    data:
+      body_text: "<h4>&nbsp;</h4>"
+      main_image: ""
+      page_title: "Careers"

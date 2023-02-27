@@ -1,0 +1,39 @@
+
+  - id: "c38f-119a-ecf3"
+    web:
+      metaDescription: ""
+      metaTitle: "Privacy Policy"
+      metaLinkText: "Privacy Policy"
+      metaKeywords: ""
+      pathPart: "privacy-policy"
+      path: "/resources/privacy-policy/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/resources/"
+    meta:
+      sort: 99
+      listed: false
+    data:
+      content: ""
+      title: "Privacy Policy"
+  - id: "2b25-a052-f97b"
+    web:
+      metaDescription: ""
+      metaTitle: "Terms of Use"
+      metaLinkText: "Terms of Use"
+      metaKeywords: ""
+      pathPart: "terms-of-use"
+      path: "/resources/terms-of-use/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/resources/"
+    meta:
+      sort: 99
+      listed: false
+    data:
+      content: ""
+      title: "Terms of Use"

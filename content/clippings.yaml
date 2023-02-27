@@ -1,0 +1,29 @@
+
+  - id: "6ca2-e6cd-fc1b"
+    web:
+      metaDescription: "Clippings"
+      metaTitle: "Clippings"
+      metaLinkText: "Clippings"
+      metaKeywords: ""
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 1
+      listed: true
+    data:
+      below_logo_text: ""
+      footer_text: "PetDesk with Zesty.io"
+      logo: ""
+      logo_height: "50"
+      petdesk_ref_code: "9de183a3-4d84-4864-8839-c5f8003a9d52"
+      phone: "(573) 364-7100"
+      pop_up_content: ""
+      request_btn_font_size: "12"
+      site_name: "Animal Health Center of Rolla"
+      social_media_icon_height: "16"
+      telephone_number_height: "26"

@@ -1,0 +1,21 @@
+
+  - id: "32cd-7e8d-e09b"
+    web:
+      metaDescription: ""
+      metaTitle: "Breeder Questions"
+      metaLinkText: "Breeder Questions"
+      metaKeywords: ""
+      pathPart: "breeder-questions"
+      path: "/resources/breeder-questions/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/resources/"
+    meta:
+      sort: 99
+      listed: false
+    data:
+      body_text: ""
+      main_image: ""
+      page_title: "Breeder Questions"

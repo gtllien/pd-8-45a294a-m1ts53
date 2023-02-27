@@ -1,0 +1,21 @@
+
+  - id: "44d7-02d3-0ba4"
+    web:
+      metaDescription: ""
+      metaTitle: "Our Photos"
+      metaLinkText: "Our Photos"
+      metaKeywords: null
+      pathPart: "our-photos"
+      path: "/about-us/our-photos/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/about-us/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      body_text: "<h4>&nbsp;</h4>"
+      main_image: "https://cb5py9.media.zestyio.com/0.ByGkXNZGN.jpg"
+      page_title: "Our Photos"

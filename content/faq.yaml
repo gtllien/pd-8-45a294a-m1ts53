@@ -1,0 +1,21 @@
+
+  - id: "0299-69f9-2f37"
+    web:
+      metaDescription: ""
+      metaTitle: "FAQ"
+      metaLinkText: "FAQ"
+      metaKeywords: ""
+      pathPart: "faq"
+      path: "/resources/faq/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/resources/"
+    meta:
+      sort: 99
+      listed: false
+    data:
+      body_text: ""
+      main_image: ""
+      page_title: "FAQ"

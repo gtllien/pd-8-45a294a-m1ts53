@@ -1,0 +1,26 @@
+
+  - id: "629d-913b-8ba1"
+    web:
+      metaDescription: ""
+      metaTitle: "Patient Forms"
+      metaLinkText: "Patient Forms"
+      metaKeywords: null
+      pathPart: "patient-forms"
+      path: "/patient-resources/patient-forms/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/patient-resources/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      additional_fields: null
+      body_text: "Please find most of our patient forms below."
+      default_fields: "no_form"
+      download_form_note: null
+      embedded_form_instrux: null
+      main_image: "https://cb5py9.media.zestyio.com/unnamed--7-.rk4p-8WMN.jpg"
+      page_title: "Patient Forms"
+      send_form_to: "ahc@fidmail.com"

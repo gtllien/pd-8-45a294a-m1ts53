@@ -1,0 +1,67 @@
+
+  - id: "e233-27ff-7c33"
+    web:
+      metaDescription: "At the Animal Health Center of Rolla, we pride ourselves in providing the highest quality care for your pets and livestock. Your pet is an important part of you"
+      metaTitle: null
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 1
+      listed: true
+    data:
+      bubble_blurb: "At the Animal Health Center of Rolla, we pride ourselves in providing the highest quality care for your pets and livestock. Your pet is an important part of your family and when he or she is ill, you want the best medical care available. Our veterinarians and staff at our clinic are ready to provide your pet with cutting-edge veterinary care,from wellness exams and vaccines to advanced diagnostics and complex surgical procedures. We have hours that are convenient for our clients and their pets. "
+      bubble_image: "https://cb5py9.media.zestyio.com/gator-cantrell.ryk5AVbME.jpg"
+      bubble_subtitle: null
+      bubble_title: "Animal Health Center of Rolla"
+      sort_order: 1
+  - id: "8e13-36ea-33ce"
+    web:
+      metaDescription: "We take especially good care of our senior patients and are proud that many of our senior patients exceed the average life expectancy for their species and bree"
+      metaTitle: "SENIOR HEALTH CARE"
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 1
+      listed: true
+    data:
+      bubble_blurb: "We take especially good care of our senior patients and are proud that many of our senior patients exceed the average life expectancy for their species and breed. Our senior care recommendations include semi-annual exams, 27 blood chemistry, complete blood count, thyroid testing and urinalysis with sediment for most pets. With senior bloodwork, we can catch medical conditions earlier and treat earlier for a better outcome. As your pet ages, his or her needs and behavior change. We can help you understand these changes and help you care for your aging pet."
+      bubble_image: "https://cb5py9.media.zestyio.com/johny-krudsen2.jpg"
+      bubble_subtitle: null
+      bubble_title: "SENIOR HEALTH CARE"
+      sort_order: 3
+  - id: "e506-02d7-8dc7"
+    web:
+      metaDescription: "Our receptionists and team will attempt to accommodate all requests to the best of our ability. Emergencies are accepted anytime our clinic is open. If you feel"
+      metaTitle: "Appointments "
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 1
+      listed: true
+    data:
+      bubble_blurb: "Our receptionists and team will attempt to accommodate all requests to the best of our ability. Emergencies are accepted anytime our clinic is open. If you feel you have an emergency with your pet, please call us or come to the hospital immediately. If possible, it is best to call before coming in so that a staff member can advise you on your particular emergency. "
+      bubble_image: "https://cb5py9.media.zestyio.com/nova-jones.jpg"
+      bubble_subtitle: null
+      bubble_title: "Appointments "
+      sort_order: 2

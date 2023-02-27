@@ -1,0 +1,41 @@
+
+  - id: "4255-eab7-aac3"
+    web:
+      metaDescription: ""
+      metaTitle: "Google"
+      metaLinkText: "Google"
+      metaKeywords: ""
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 1
+      listed: true
+    data:
+      font_awesome_icon: "google"
+      name: "Google"
+      url: "https://plus.google.com/104188479515113586790"
+  - id: "a8a1-5130-7c82"
+    web:
+      metaDescription: ""
+      metaTitle: "Facebook"
+      metaLinkText: "Facebook"
+      metaKeywords: ""
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 1
+      listed: true
+    data:
+      font_awesome_icon: "facebook"
+      name: "Facebook"
+      url: "https://www.facebook.com/AHCofRolla/"

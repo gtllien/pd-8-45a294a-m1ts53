@@ -1,0 +1,24 @@
+
+  - id: "2f4e-e638-cdbc"
+    web:
+      metaDescription: ""
+      metaTitle: "Animal Health Center of Rolla"
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 1
+      listed: true
+    data:
+      about_section_btn_links_to: "38ef-e3c0-046f"
+      about_section_button_txt: "Learn More"
+      about_section_copy: "<p><a href=\"https://www.facebook.com/AHCofRolla/\" target=\"_blank\"><br /><img style=\"max-width: 100%; display: block; margin-left: auto; margin-right: auto;\" title=\"facebook-icon-preview-200x200.png\" src=\"https://ddp2ys.media.zestyio.com/facebook-icon-preview-200x200.png\" alt=\"\" width=\"106\" height=\"106\" /></a></p>"
+      about_section_image: "https://cb5py9.media.zestyio.com/unnamed--58-.rkfCEVWG4.jpg"
+      about_section_title: "Animal Health Center of Rolla"
+      sort_order: 1

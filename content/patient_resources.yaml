@@ -1,0 +1,21 @@
+
+  - id: "4d7f-ecce-ed17"
+    web:
+      metaDescription: ""
+      metaTitle: "Patient Resources"
+      metaLinkText: "Patient Resources"
+      metaKeywords: null
+      pathPart: "patient-resources"
+      path: "/patient-resources/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 4
+      listed: true
+    data:
+      body_text: "<p><a href=\"http://petdesk.com/pet-cat-dog-app/\"><img style=\"max-width: 100%; display: block; margin-left: auto; margin-right: auto;\" title=\"dog-cat.png\" src=\"https://ddp2ys.media.zestyio.com/dog-cat.png\" alt=\"\" /></a></p>"
+      main_image: "https://cb5py9.media.zestyio.com/unnamed--3-.rkGlnPZMV.jpg"
+      page_title: "Patient Resources"

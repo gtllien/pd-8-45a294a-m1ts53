@@ -1,0 +1,20 @@
+
+  - id: "7ae7-b9ab-5080"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 1
+      listed: true
+    data:
+      employee_category: "Team"
+      sort_order: 1

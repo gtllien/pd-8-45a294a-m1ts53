@@ -1,0 +1,22 @@
+
+  - id: "449d-9103-acfe"
+    web:
+      metaDescription: ""
+      metaTitle: "Patients Photos"
+      metaLinkText: "Patients Photos"
+      metaKeywords: null
+      pathPart: "patients-photos"
+      path: "/patients-photos/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 2
+      listed: true
+    data:
+      body_text: null
+      main_image: null
+      page_title: "Patients Photos"
+      youtube_id: null

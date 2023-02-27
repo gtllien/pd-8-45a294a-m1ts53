@@ -1,0 +1,421 @@
+
+  - id: "1109-cae7-01a5"
+    web:
+      metaDescription: ""
+      metaTitle: "After Hours Emergency and Urgent Care"
+      metaLinkText: "After Hours Emergency and Urgent Care"
+      metaKeywords: ""
+      pathPart: "after-hours-emergency-urgent-care"
+      path: "/services/after-hours-emergency-urgent-care/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/services/"
+    meta:
+      sort: 18
+      listed: true
+    data:
+      body_text: "<p style=\"text-align: center;\">We offer emergency services during our normal working hours. If your pet is in need of emergency care after hours, call our main phone line at (573) 364-7100 and follow instructions for the 24-hour emergency medical service provider. We share after hours emergency calls with Dr. Chitwood from St. James Veterinary Medical Center and Dr. Janke from Rolla Animal Hospital.</p>"
+      main_image: "https://cb5py9.media.zestyio.com/potter-white.jpg"
+      page_title: "After Hours Emergency and Urgent Care"
+      sort_order: 18
+  - id: "551d-e362-0cf2"
+    web:
+      metaDescription: ""
+      metaTitle: "Euthanasia Services"
+      metaLinkText: "Euthanasia Services"
+      metaKeywords: ""
+      pathPart: "euthanasia-services"
+      path: "/services/euthanasia-services/"
+      sitemapPriority: -1
+      canonicalTagMode: 0
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/services/"
+    meta:
+      sort: 17
+      listed: true
+    data:
+      body_text: "<p style=\"text-align: center;\">The decision to euthanize a pet is never easy. Sometimes a pet has more pain than can be managed medically or requires more care than a family can provide. Other times, the animal&rsquo;s condition may be such that you don&rsquo;t want to subject him or her to extreme treatments or measures. We help you make the most compassionate choice for your pet, as well as what is best for you and your family. Euthanasia may be the correct choice. We understand your relationship with your special pet. It is our place to evaluate your pet&rsquo;s condition, explain treatment options, risks and the protentional for recovery. We help you fully understand your pet&rsquo;s condition while you make your decision. The decision to euthanize your pet can be terribly difficult and emotional one. Turn to our veterinarians and staff, your family members and close friends for support as you grieve the loss of your special companion.</p>\n<p style=\"text-align: center;\">How Euthanasia Works:</p>\n<p style=\"text-align: center;\">Euthanasia is painless and stress-free for the patient. The veterinarian may administer a sedative to relax your pet, if needed. Once the euthanasia medication is injected, your pet quickly becomes unconscious as brain function ceases. Some patients may move, release bodily fluids or sigh after the medication is given but these are only reflexes. You pet experiences no pain.<br />You are invited to participate in any way that is comfortable to you. You may want to hold your pet throughout the process, stand by with a comforting touch or words, or wait in the lobby after saying goodbye. You may even spend a few minutes with your deceased pet afterwards, if you choose.</p>"
+      main_image: "https://cb5py9.media.zestyio.com/IMG_2217.jpeg"
+      page_title: "Euthanasia Services"
+      sort_order: 17
+  - id: "4a91-c460-0d28"
+    web:
+      metaDescription: ""
+      metaTitle: "Microchipping"
+      metaLinkText: "Microchipping"
+      metaKeywords: ""
+      pathPart: "Microchipping"
+      path: "/services/Microchipping/"
+      sitemapPriority: -1
+      canonicalTagMode: 0
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/services/"
+    meta:
+      sort: 7
+      listed: true
+    data:
+      body_text: "<p style=\"text-align: center;\">When a pet goes missing, ID tags are never a sure bet. Collars can fall or tear off, leaving your pet without an ID tag, and would-be thieves can simply remove identifying accessories. Missing pet signs and online posts are another important way to search for missing pets, but again, these methods can only reach so many eyes. What happens if your pet goes missing on vacation, or gets transported to a place where no one knows to look? No pet owner wants to imagine this scenario, but nearly a third of all pets will get lost at some point, and your pets deserve a disaster prevention plan that will last forever.</p>\n<p style=\"text-align: center;\">Fortunately, microchipping is far more accurate and permanent than any other identification method for pets. At Animal Health Center, we rely on modern medical technology to prevent illnesses and treat our patients, so it's no surprise that we rely on this technology to spare families from unnecessary pain.</p>\n<p style=\"text-align: center;\">Microchips are small computer chips that are the size of a grain of rice that is inserted under your pet&rsquo;s skin, between the shoulder blades. Microchips carry a unique ID number to identify you pet. Microchips are NOT tracking devices. When a microchip scanner is passed over the pet, the microchip transmits the microchips ID number. We recommend that all pets receive a microchip to increase the chances that your pet is returned to you in case they are ever lost or stolen. Although putting a collar with and ID tag with contact information on your pet is also important, microchipping is permanent.</p>\n<p style=\"text-align: center;\">At our clinic we use HomeAgain microchips, so we have provided the link so you can have more information about their microchips and what they entail.</p>\n<p style=\"text-align: center;\"><br /><a href=\"https://www.homeagain.com/what-is-a-microchip.html\">https://www.homeagain.com/what-is-a-microchip.html</a></p>\n<p style=\"text-align: center;\"><br />*If your pet has already received a microchip elsewhere, please let us know so we can put that information into our computer system and your pet can have a complete profile.</p>\n<p>&nbsp;</p>"
+      main_image: "https://cb5py9.media.zestyio.com/sasha-bieniek.jpg"
+      page_title: "Microchipping"
+      sort_order: 7
+  - id: "d8b5-412a-1ebb"
+    web:
+      metaDescription: ""
+      metaTitle: "Veterinary Services for Equine"
+      metaLinkText: "Veterinary Services for Equine"
+      metaKeywords: ""
+      pathPart: "veterinary-services-for-equine"
+      path: "/services/veterinary-services-for-equine/"
+      sitemapPriority: -1
+      canonicalTagMode: 0
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/services/"
+    meta:
+      sort: 19
+      listed: true
+    data:
+      body_text: "<p style=\"text-align: center;\">All of our doctors and staff have a love of horses and gain great satisfaction from providing care to our clients with equines, whether it is a small herd on a working farm, a professional stable or equestrian center, or a single backyard horse. As a result of our wide range of expertise, we see and have considerable experience treating a number of equine breeds, which includes quarter, walking, fox trotter, Paso, grade, minis, donkeys, draft, and mules.</p>\n<p style=\"text-align: center;\">It is our goal to always work in the best interest of your equine in a manner that ensures the best service to our clients.<br />The equine services we offer include:<br /> <br /><strong>Vaccines</strong>: Missouri has a wide variety of wonderful places to live, farm and raise horses. However, we are not immune from a number of dangerous diseases that can be devastating to horses. These diseases are also highly infectious by nature and could pose a very real risk to the health of individual animals as well as herds.<br />However, there are a number of vaccines that have proved to be very effective at preventing many equine diseases. At Animal Health Center of Rolla our veterinarians are well versed in the nature and administration of these vaccines and has developed an equine vaccination protocol designed to meet the needs of foals, mature animals, and equines in their senior years<br />.<br /><strong>Diagnosis</strong> <strong>and</strong> <strong>Treatment</strong> <strong>of</strong> <strong>Medical</strong> <strong>Conditions</strong>: Though we prefer to prevent illness as much as we possibly can, there simply is no guarantee that a well-cared for equine will never face a periodic illness or injury. Our veterinarians are experienced and able to diagnose and treat a wide range of medical conditions.<br /> <br /><strong>Equine</strong> <strong>Dentistry</strong>: Horses and related equines often require some dentistry in order to keep their teeth and gums healthy, which in turn goes a long way toward ensuring they are able to eat properly and maintain good nutritional health. Our veterinarians are able to perform a range of dental services on equines, which includes teeth floating, extractions and balance work on incisors and molars.<br />Not only will these services prevent painful and uncomfortable teeth and oral conditions from developing, but they are important to ensure your horse is able to properly chew and digest his or her food.<br /> <br /><strong>Reproductive</strong> <strong>Health</strong>: Breeding horses is one of the most interesting and compelling enterprises an owner of horses can undertake. It is important to farmers seeking to broaden and maintain their herds and it is an important endeavor for those seeking to produce the next great race or show horse.</p>\n<p style=\"text-align: center;\"><br />Our veterinarians are able to offer guidance on breeding and maintaining the health of the mare during pregnancy and delivery. We also offer reproductive ultrasounds during important stages of pregnancy as well as artificial insemination to ensure the best chance of conception.</p>"
+      main_image: "https://cb5py9.media.zestyio.com/cody-gaddy.jpg"
+      page_title: "Veterinary Services for Equine"
+      sort_order: 19
+  - id: "e772-eb31-eb6f"
+    web:
+      metaDescription: ""
+      metaTitle: "Large Animal and Companion Senior Health Care"
+      metaLinkText: "Large Animal and Companion Senior Health Care"
+      metaKeywords: ""
+      pathPart: "large-animal-and-companion-senior-health-care"
+      path: "/services/large-animal-and-companion-senior-health-care/"
+      sitemapPriority: -1
+      canonicalTagMode: 0
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/services/"
+    meta:
+      sort: 16
+      listed: true
+    data:
+      body_text: "<p style=\"text-align: center;\">We take especially good care of our senior patients and are proud that many of our senior patients exceed the average life expectancy for their species and breed. Our senior care recommendations include semi-annual exams, 27 blood chemistry, complete blood count, thyroid testing and urinalysis with sediment for most pets. With senior bloodwork, we can catch medical conditions earlier and treat earlier for a better outcome. As your pet ages, his or her needs and behavior change. We can help you understand these changes and help you care for your aging pet.</p>"
+      main_image: "https://cb5py9.media.zestyio.com/bounds-horse-haven-sancturay.jpg"
+      page_title: "Large Animal and Companion Senior Health Care"
+      sort_order: 16
+  - id: "e286-91d9-bb2e"
+    web:
+      metaDescription: ""
+      metaTitle: "Appointments"
+      metaLinkText: "Appointments"
+      metaKeywords: ""
+      pathPart: "appointments"
+      path: "/services/appointments/"
+      sitemapPriority: -1
+      canonicalTagMode: 0
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/services/"
+    meta:
+      sort: 1
+      listed: true
+    data:
+      body_text: "<p style=\"text-align: center;\">Our receptionists and team will attempt to accommodate all requests to the best of our ability. Emergencies are accepted anytime our clinic is open. If you feel you have an emergency with your pet, please call us or come to the hospital immediately. If possible, it is best to call before coming in so that a staff member can advise you on your particular emergency.</p>"
+      main_image: "https://cb5py9.media.zestyio.com/pablo-walker.jpg"
+      page_title: "Appointments"
+      sort_order: 1
+  - id: "1764-31eb-9097"
+    web:
+      metaDescription: ""
+      metaTitle: "Radiography (X-Rays)"
+      metaLinkText: "Radiography (X-Rays)"
+      metaKeywords: ""
+      pathPart: "radiography--x-rays-"
+      path: "/services/radiography--x-rays-/"
+      sitemapPriority: -1
+      canonicalTagMode: 0
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/services/"
+    meta:
+      sort: 14
+      listed: true
+    data:
+      body_text: "<p>Painless and entirely noninvasive, x-rays are a crucial tool used to diagnose several injuries or ailments that may be causing distress to your pet. The amount of radiation exposure needed to perform x-rays is very low, making it a safe form of testing for all pets, even those that are very young or who may be pregnant.</p>\n<p>At Animal Health Center, we now offer portable Digital Radiography for our larger patients that cannot be placed onto the radiology table safely and stress free. Soon, our clinic will be transferring over to not only all digital radiography, but we will also be offering dental digital radiography for our patients.</p>\n<p>Digital radiography uses an electronic sensor instead of x-ray film to produce an image. This image can be viewed and stored on a computer. Less radiation is needed to make an image with digital radiography.</p>\n<p>Digital radiography is great for monitoring the healing progress in a broken bone, after an orthopedic repair, or to evaluate a pet&rsquo;s musculoskeletal, cardiovascular, gastrointestinal, reproductive, and urinary systems. This advanced x-ray technology produces more detailed images and exposes the patient to minimal doses of radiation. Our modern x-ray equipment provides high-quality radiographs for diagnosing the source of your pet&rsquo;s problem. Veterinary x-rays are often used to identify the cause and extent of an illness or injury to a pet.</p>"
+      main_image: "https://cb5py9.media.zestyio.com/maci-and-oliver-coverdell.jpg"
+      page_title: "Radiography (X-Rays)"
+      sort_order: 14
+  - id: "9348-22fc-c01a"
+    web:
+      metaDescription: ""
+      metaTitle: "Flexible Endoscopy"
+      metaLinkText: "Flexible Endoscopy"
+      metaKeywords: ""
+      pathPart: "flexible-endoscopy"
+      path: "/services/flexible-endoscopy/"
+      sitemapPriority: -1
+      canonicalTagMode: 0
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/services/"
+    meta:
+      sort: 12
+      listed: true
+    data:
+      body_text: "<p>Endoscopy is a minimally-invasive procedure that aids us in the diagnosis and management of some diseases your pet may develop. Endoscopy permits direct visual examination and biopsy of the gastrointestinal system through high-tech flexible fiber optics that consist of a long, flexible insertion tube with a bending tip at the end that enters the body through existing orifices, an eyepiece, a control section, and a light on the tip. The tip of the endoscope is manipulated using a control knob in the hand piece. With our flexible endoscopy equipment, we can examine, precisely diagnose and treat diseases in the esophagus, oral cavity, stomach and upper intestinal tract and obtain diagnostic samples of the trachea and lower airway, the stomach and intestinal tract. This procedure also allows us to often use the endoscope to remove foreign objects. By using this endoscopic procedure, it allows the veterinarian to visualize the organs and internal systems without performing surgery, resulting in less pain, faster recovery time, and fewer complications.</p>\n<p>Endoscopy may be recommended after a thorough physical examination and other diagnostic testing for your pet has been performed. This non-surgical procedure minimizes the time your pet is under anesthesia and often reduces the need for a hospital stay. For examination of the intestinal tract, fasting may be required for 24-48 hours. Most patients will go home the day of the procedure and will not experience pain or discomfort following the procedure. Complications from endoscopy itself are rare and will be discussed with you at the time of the procedure.</p>"
+      main_image: "https://cb5py9.media.zestyio.com/coaltrain-shaub2.jpg"
+      page_title: "Flexible Endoscopy"
+      sort_order: 12
+  - id: "5ecb-b22c-7c84"
+    web:
+      metaDescription: ""
+      metaTitle: "Ultrasound"
+      metaLinkText: "Ultrasound"
+      metaKeywords: ""
+      pathPart: "ultrasound"
+      path: "/services/ultrasound/"
+      sitemapPriority: -1
+      canonicalTagMode: 0
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/services/"
+    meta:
+      sort: 15
+      listed: true
+    data:
+      body_text: "<p>Unlike some other imaging studies, like x-rays, ultrasonography does not use radiation. Instead, ultrasonography uses high-frequency sound (ultrasound) waves to create a picture of what is inside your pet&rsquo;s body. The machine is connected to a small probe that is held gently against your pet&rsquo;s skin. The probe sends out painless ultrasound waves that bounce off structures (for example, organs) in your pet&rsquo;s body and return to a sensor inside the ultrasound machine. The ultrasound equipment collects these reflected &ldquo;echoes&rdquo; and uses them to generate images that are viewable on a screen.</p>\n<p>Our veterinarians can use ultrasound technology to examine internal organs and check for proper size, shape, location, and even blood supply to those organs. Because ultrasound images are produced in real time, this technology can be used to evaluate the heart as it beats. This can help us detect abnormalities in the motion of heart valves, blood flow through the heart, and contractions of the heart muscle. We can evaluate the size of the heart chambers, the thickness of the heart walls, the thickness of the heart valves, and blood flow patterns. Ultrasound waves can generate excellent images of abdominal organs, including the liver, spleen, gallbladder, and kidneys.Ultrasounds can also be used to check for masses within organs, check for early pregnancy, or to guide our doctors in procedures where they need to use a needle to take a sample of an internal mass. It is also useful for assessing fetal health and monitoring pregnancy in breeding animals. It can help us diagnose and stage (determine the severity of) some forms of cancer. Ultrasonography is a completely non-invasive, painless way to diagnose and evaluate many common diseases. As we strive to provide our patients with the highest quality medicine and diagnostic testing, we are pleased to offer ultrasound as one of our diagnostic capabilities.</p>"
+      main_image: "https://cb5py9.media.zestyio.com/brewski-and-taffie-clovis.jpg"
+      page_title: "Ultrasound"
+      sort_order: 15
+  - id: "73c7-a2eb-3af1"
+    web:
+      metaDescription: ""
+      metaTitle: "Tail Docking and Dewclaw Removal"
+      metaLinkText: "Tail Docking and Dewclaw Removal"
+      metaKeywords: ""
+      pathPart: "tail-docking-and-dewclaw-removal"
+      path: "/services/tail-docking-and-dewclaw-removal/"
+      sitemapPriority: -1
+      canonicalTagMode: 0
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/services/"
+    meta:
+      sort: 5
+      listed: true
+    data:
+      body_text: "<p><span style=\"text-decoration: underline;\"><strong>Tail Docking</strong></span><br />At Animal Health Center, we provide safe and effective tail docking services to help prevent tail damage and maintain hygiene, while supporting your dog's compliance with specific breed standards.</p>\n<p>Tail docking surgery for dogs is ideally performed when your puppy is between 3-5 days of age, varying by breed and relative size of puppies at birth and is generally performed at the breeder's request. Our veterinary doctors work closely with breeders to determine appropriate length of tail, and ensure a safe and successful outcome for your pet. The surgical process is generally a low risk operation and short in duration.</p>\n<p>Our veterinarians will closely monitor your puppy after their procedure to ensure their comfort and safety. Once your puppy is ready to return home, it will be important to closely manage home care to ensure a successful recovery. You will need to monitor the suture line daily, watching for redness, swelling, discharge or pain. This procedure usually coincides with dewclaw removal.</p>\n<p><strong><span style=\"text-decoration: underline;\">Dewclaw Removal</span></strong></p>\n<p>Our talented veterinary team provides careful and effective dewclaw removal services in order to prevent injury to your puppy. Your puppy's dewclaws are the toes or digits located on the inner aspect of his or her paw and are not used for walking. Removing your puppies dewclaws will prevent these weakly attached digits from getting tangled or caught in brush, fences, carpets, collars or long grass, which can lead to painful injuries with a high risk of infection.<br />Dewclaw removal for puppies is a fairly simple procedure that is generally performed at 3-5 days of age (usually coinciding with tail docking procedure). Most puppies recover successfully and without incident from this low risk surgery and do not have to undergo general anesthesia with no sutures required. Should you choose dewclaw removal for your puppy at an older age, we will typically remove them at the same time of their spay or neuter procedure, and will provide full anesthesia for their comfort and safety.</p>\n<p>&nbsp;</p>"
+      main_image: "https://cb5py9.media.zestyio.com/maggie-may-trombley.jpg"
+      page_title: "Tail Docking and Dewclaw Removal"
+      sort_order: 5
+  - id: "d324-d6a6-5987"
+    web:
+      metaDescription: ""
+      metaTitle: "Therapeutic Laser"
+      metaLinkText: "Therapeutic Laser"
+      metaKeywords: ""
+      pathPart: "therapeutic-laser"
+      path: "/services/therapeutic-laser/"
+      sitemapPriority: -1
+      canonicalTagMode: 0
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/services/"
+    meta:
+      sort: 13
+      listed: true
+    data:
+      body_text: "<p style=\"text-align: center;\">Laser stands for light amplification by stimulated emission of radiation. Cold or low level laser therapy (LLLT), gained FDA approval in 2002. Here at Animal Health Center we firmly believe in Therapeutic Laser on all our small and large animal patients. The laser has shown remarkable improvement in the health of our patients with quicker recovery and no side effects. Benefits include intense anti-inflammatory and anti-edemic effects and also strong analgesic effect.<br />Lasers can reduce pain in several ways. The anti-inflammatory effects of the laser treatments are similar to pharmacologic agents. Lasers also can control pain by reducing oxidative stress, improving angiogenesis and augmenting collagen synthesis and skeletal repair.<br />When using the laser on some patients, the positive effect can be seen immediately. On more severe cases and depending on the type of injury, it may take a few treatments before noticing improvement. The Therapeutic Laser can treat a wide variety of things from chronic joint disorders, wounds, peripheral nerve injuries, muscle sprangs and even surgical incisions to promote faster healing. </p>"
+      main_image: "https://cb5py9.media.zestyio.com/cici-akers--keepes.jpg"
+      page_title: "Therapeutic Laser"
+      sort_order: 13
+  - id: "c2b0-6c85-25cb"
+    web:
+      metaDescription: ""
+      metaTitle: "Yearly Physical Examination and Pet Vaccinations"
+      metaLinkText: "Yearly Physical Examination and Pet Vaccinations"
+      metaKeywords: ""
+      pathPart: "yearly-physical-examamination-pet-vaccinations"
+      path: "/services/yearly-physical-examamination-pet-vaccinations/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/services/"
+    meta:
+      sort: 6
+      listed: true
+    data:
+      body_text: "<p style=\"text-align: center;\">We recommend a comprehensive physical exam at our animal clinic annually, to ensure your pet is receiving the best medical attention and is on schedule for appropriate pet vaccinations to maintain optimal health. Our doctors perform a full physical examination of your pet, evaluating closely all the body systems, including the teeth, ears, abdomen, heart, lungs and more or as some like to say, &ldquo; a nose to tail examination.&rdquo; We use the latest vaccines that reduce the risk of reactions. Pet vaccinations can boost your pet&rsquo;s immunity and can prevent your pet from contracting a variety of common illnesses. Getting your pet vaccinated can help your pet stay healthy, so her or she can continue to enjoy their favorite activities. By reducing the number of animals that have, or are at risk to get rabies, a rabies vaccination helps stop the spread of rabies from animals to humans. During this exam, all aspects of your pet&rsquo;s health are addressed and discussed, along with any questions you might have about taking care of your pet. Part of our yearly examination includes a heartworm test that can also test for common tick born diseases. Our clinic stocks a full line of the best heartworm, fleas and tick medications that provide the best protection. Flea and tick prevention is a must for your pet&rsquo;s health and comfort. The bite of these pests tend to cause the skin itching, redness and swelling known as dermatitis, which then compels the animal to scratch at the skin until bacteria get into the open wounds. Fleas can transmit tapeworms, plaque and cat scratch disease, while ticks are carriers of Lyme disease, ehrlichiosis, Rocky Mountain spotted fever and other diseases. Our veterinarians can put your pet on a regimen of preventative topical, or collar-based medications. Since different medications work on different pests (fleas versus ticks) at different stages of their life cycles, we may recommend a combination of preventatives.</p>"
+      main_image: "https://cb5py9.media.zestyio.com/betty-bill-and-rosca-williams.jpg"
+      page_title: "Yearly Physical Examination and Vaccinations"
+      sort_order: 6
+  - id: "050e-5d22-4746"
+    web:
+      metaDescription: ""
+      metaTitle: "On-Site Pharmacy"
+      metaLinkText: "On-Site Pharmacy"
+      metaKeywords: ""
+      pathPart: "on-site-pharmacy"
+      path: "/services/on-site-pharmacy/"
+      sitemapPriority: -1
+      canonicalTagMode: 0
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/services/"
+    meta:
+      sort: 9
+      listed: true
+    data:
+      body_text: "<p style=\"text-align: center;\">We maintain a complete inventory of pharmaceuticals from shampoos, flea/tick control products, heartworm preventatives, postoperative pain medications and antibiotics, all so your pets' pharmaceutical needs can be addressed right here in our office. We also carry a full line of prescription diets. In addition to convenience, you can be assured of the quality and safety of all the products we dispense. We&rsquo;ll also provide you with clear, concise dosing instructions. </p>"
+      main_image: "https://cb5py9.media.zestyio.com/bella-richardson.jpg"
+      page_title: "On-Site Pharmacy"
+      sort_order: 9
+  - id: "d056-eadb-e101"
+    web:
+      metaDescription: ""
+      metaTitle: "Kitten Vaccinations and Preventative Care Guidelines"
+      metaLinkText: "Kitten Vaccinations and Preventative Care Guidelines"
+      metaKeywords: null
+      pathPart: "kitten-vaccinations-and-preventative-care-guidelines"
+      path: "/services/kitten-vaccinations-and-preventative-care-guidelines/"
+      sitemapPriority: -1
+      canonicalTagMode: 0
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/services/"
+    meta:
+      sort: 4
+      listed: true
+    data:
+      body_text: "<p>Kittens require a series of vaccinations, in order to stimulate an appropriate response from their developing immune system.</p>\n<p>The following vaccinations are considered CORE vaccines (recommended for every cat):</p>\n<p>FVRCP- A combination vaccine that protects against feline herpes virus, calicivirus, and panleukopenia (also sometimes called feline distemper). Given in a series of 3 vaccines, every 4 weeks, starting between 6 and 8 weeks of age.</p>\n<p>Rabies- Required by law, and should be given after 12 weeks of age and before 6 months of age.</p>\n<p>Feline Leukemia Virus- Considered a core vaccines for all kittens by the American Association of Feline Practitioners. This vaccine is given at the second and third round of vaccines. It should be boostered at the next annual visit, and then becomes a vaccine given as determined by risk factors (outside cats or living with other cats who have the virus).</p>\n<p>There are other feline vaccinations on the market. Some of these include Feline Immunodeficiency Virus, Chlamydophila felis, Bordetella, Feline Infectious Peritonitis, and dermatophyte vaccines. Some of these vaccines have questionable effectiveness, or limited practical use (only in catteries, for example). For those reasons, the Animal Health Center does not carry any of these vaccines.</p>\n<p>Another issue to address at the first kitten visit is testing for Feline Immunodeficiency Virus (FIV) and Feline Leukemia Virus (FeLV). These are serious viruses that can affect the lifestyle and lifespan of your cat, should they test positive. Infected cats should live their lives indoors, ideally isolated from other cat to prevent spread of the disease. If your cat were to test positive, we will counsel you on the best plan of action to take at that point.</p>\n<p>Kittens, like puppies, require deworming to eliminate intestinal parasites. It is a great idea to bring a fresh stool sample (even if it&rsquo;s covered in kitty litter) to the first visit. We will then be able to examine the stool microscopically and treat as needed.</p>\n<p>Finally, the first visit is an excellent time to begin flea and tick prevention. This is especially critical for outdoor cats, as we have the species of tick that can lead to Bobcat Fever (cytauxzoonosis), an often fatal disease. We recommend year-round prevention for cats that go outdoors. Indoor cats who live with dogs should also have year-round prevention. Strictly indoor cats with no other pets going outside can use flea and tick prevention on an as-needed basis, provided they are monitored closely. We keep topical and collar prevention in the clinic with varying durations of a single application.</p>\n<p>&nbsp;</p>"
+      main_image: "https://cb5py9.media.zestyio.com/IMG_2625.jpg"
+      page_title: "Kitten Vaccinations and Preventative Care Guidelines"
+      sort_order: 4
+  - id: "e6ff-2247-234e"
+    web:
+      metaDescription: ""
+      metaTitle: "Puppy Vaccinations and Preventative Care Guidelines"
+      metaLinkText: "Puppy Vaccinations and Preventative Care Guidelines"
+      metaKeywords: null
+      pathPart: "puppy-vaccinations-and-preventative-care-guidelines"
+      path: "/services/puppy-vaccinations-and-preventative-care-guidelines/"
+      sitemapPriority: -1
+      canonicalTagMode: 0
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/services/"
+    meta:
+      sort: 3
+      listed: true
+    data:
+      body_text: "<p>Puppies require a series of vaccinations, in order to stimulate an appropriate response from their developing immune system.</p>\n<p>The following vaccinations are considered CORE vaccines (recommended for every dog):</p>\n<p>DA2P - A combination vaccine that protects against canine distemper, Adenovirus type 2, and parvovirus. Given at 6, 9, 12, and 16 weeks of age.</p>\n<p>Rabies - Required by law, and should be given after 12 weeks of age and before 6 months of age</p>\n<p>There are several other vaccinations that are considered based on risk factors your dog may be exposed to. Some of them are as follows:</p>\n<p>Leptospirosis- This protects against a bacterial infection that can cause liver and kidney failure in your pet, and is a zoonotic disease (your pet can transmit the disease to you). At the Animal Health Center, we STRONGLY recommend every dog be vaccinated against leptospirosis. We include this in combination with DA2P in the 12 and 16-week puppy vaccines.</p>\n<p>Coronavirus- A gastrointestinal virus, this disease is similar to parvovirus, and though not usually quite as severe, can still prove fatal. We believe every puppy should be vaccinated against this, and include it in the 6 and 9-week vaccines.</p>\n<p>Bordetella- Also known as kennel cough, this vaccination is generally required if your puppy will be going to the groomer or boarding facility. It is also an excellent idea to give this vaccination if you will be attending any puppy training classes.</p>\n<p>Lyme - Lyme disease is transmitted by ticks, and dogs who run in the woods or on larger properties with a tick burden, as well as hunting dogs are at increased risk. This requires two vaccinations 4 weeks apart.</p>\n<p>Canine influenza - This vaccination is sometimes required if your puppy will be going to the groomer or boarding facility. This requires two vaccinations 4 weeks apart.</p>\n<p>After the initial puppy series, vaccinations are boostered one year later.</p>\n<p>Puppies should receive regular deworming beginning between 2 and 4 weeks of age and continued for no fewer than 2 to 3 rounds of appropriate deworming medication, such as pyrantel or fenbendazole.</p>\n<p>It is an excellent idea to bring a fresh stool sample with you to the first visit for your puppy. Not all deworming will eliminate all the possible parasites your pup could have. We will examine it under the microscope to look for evidence of worms and other parasites. Then we can treat accordingly, if necessary.</p>\n<p>The first visit is also an excellent time to start on heartworm prevention if you haven&rsquo;t already. Heartworms are fairly prevalent in Missouri, and year-round prevention is required to adequately protect your puppy. Any dog over 7 months of age must be tested before starting heartworm prevention to ensure they are free of disease. Not testing can lead to serious side effects, and potentially death if they are infected. While young, there are two options for how to administer the preventative: topical (on the skin of the back of the neck) and oral (a chewable tablet). Once a dog is full grown and over 6 months old, there is also an injectable option, which lasts for 6 months. Many preventatives have the added bonus of treating for an intestinal parasite.</p>\n<p>The last thing we will want to get started on your puppy&rsquo;s first visit is flea and tick prevention. In Missouri, we see fleas and ticks throughout the year and therefore recommend treating year-round, as with heartworm prevention. We can use topical, oral or collar prevention for fleas and ticks, depending on age and weight. The different options can work for 4 weeks, 12 weeks, or 8 months.</p>\n<p>We look forward to getting your puppy&rsquo;s care off on the right foot and helping you select the appropriate vaccinations, deworming and preventatives for your new family member!</p>"
+      main_image: "https://cb5py9.media.zestyio.com/annie-kirn.jpg"
+      page_title: "Puppy Vaccinations and Preventative Care Guidelines"
+      sort_order: 3
+  - id: "3ffd-7190-aad4"
+    web:
+      metaDescription: ""
+      metaTitle: "Drop Off Appointments"
+      metaLinkText: "Drop Off Appointments"
+      metaKeywords: null
+      pathPart: "drop-off-appointments"
+      path: "/services/drop-off-appointments/"
+      sitemapPriority: -1
+      canonicalTagMode: 0
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/services/"
+    meta:
+      sort: 2
+      listed: true
+    data:
+      body_text: "<p style=\"text-align: center;\"><br />We offer full-service drop off appointments between 7:30-8 Mon-Fri! You can then pick up your pet before 4:30 on Mon/Fri and before 5:30 on Tues/Wed/Thur!</p>"
+      main_image: "https://cb5py9.media.zestyio.com/brewski-taffie-clovis.jpg"
+      page_title: "Drop Off Appointments"
+      sort_order: 2
+  - id: "cdc0-b8d7-92b6"
+    web:
+      metaDescription: ""
+      metaTitle: "On-Site Laboratory"
+      metaLinkText: "On-Site Laboratory"
+      metaKeywords: null
+      pathPart: "on-site-laboratory"
+      path: "/services/on-site-laboratory/"
+      sitemapPriority: -1
+      canonicalTagMode: 0
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/services/"
+    meta:
+      sort: 8
+      listed: true
+    data:
+      body_text: "<p style=\"text-align: center;\">We perform a wide variety of diagnostic test in house from serum chemistry, hematology, serology, urinalysis and parasite testing. We also utilize commercial veterinary laboratories for specialized diagnostics and consultations. These include: blood chemistries; complete blood count; electrolytes; ELISA testing for heartworms, Lyme disease, Ehrlichia, Feline Leukemia Virus, Feline Immunodeficiency Virus (AIDS) and Giardia; urinalysis with sediment; fecal analysis for intestinal parasites; skin scrapings for mites; fungal testing for ringworm; and early renal detection (ERD) testing (for kidney disease). Our complete in house bloodwork system can generally provide results within 30 minutes about the condition of your pet&rsquo;s blood, liver, kidneys and more. In house bloodwork allows us to reach a diagnosis quicker and get your pet the right treatment as soon as possible.</p>"
+      main_image: "https://cb5py9.media.zestyio.com/tori-ewing.jpg"
+      page_title: "On-Site Laboratory"
+      sort_order: 8
+  - id: "5318-bfa5-66bd"
+    web:
+      metaDescription: ""
+      metaTitle: "Large Animal and Companion Surgery Services"
+      metaLinkText: "Large Animal and Companion Surgery Services"
+      metaKeywords: null
+      pathPart: "large-animal-and-companion-surgery-services"
+      path: "/services/large-animal-and-companion-surgery-services/"
+      sitemapPriority: -1
+      canonicalTagMode: 0
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/services/"
+    meta:
+      sort: 11
+      listed: true
+    data:
+      body_text: "<p style=\"text-align: center;\">We perform scheduled surgeries Monday through Thursday mornings. Drop off times for surgery are between 7:30 a.m. and 8:00 a.m. on those mornings. Pets undergoing surgery should not be fed after midnight prior to the surgery unless other instructions have been given but they may have water.</p>\n<p style=\"text-align: center;\">Our skilled veterinarians adhere to the highest level of care standards for all surgical procedures, placing the utmost importance on pain management to ensure your pet is safe and comfortable throughout the treatment process. Each patients anesthetic and pain management protocol is individually tailored for his or her current health status, age medical history and surgical procedure. In addition to monitoring by our trained veterinary nurses, we use monitors to check each animals blood pressure, oxygen saturation, heart rate, respiration and temperature. Our veterinary team preform but not limited to surgeries ranging from spaying/neutering, declawing, biopsies, tumor removal, laceration/wound repair, soft tissue, gall bladder, minor eye procedures and various soft tissue and orthopedic procedures.</p>\n<p style=\"text-align: center;\">**Spay/neuter provides a convenience to you, as well as protecting your pet from common cancers and illnesses associated with non-breeding, intact animals.</p>\n<p style=\"text-align: center;\">**Emergency Surgery &ndash; Our doctors are trained to perform emergency surgeries on many complications arising from ingestion of foreign objects and so much more.</p>"
+      main_image: "https://cb5py9.media.zestyio.com/cash-and-larry-richardson.Bko7ZSZG4.jpg"
+      page_title: "Large Animal and Companion Surgery Services"
+      sort_order: 11
+  - id: "88ef-e954-e983"
+    web:
+      metaDescription: ""
+      metaTitle: "Veterinary Services for Bovine"
+      metaLinkText: "Veterinary Services for Bovine"
+      metaKeywords: null
+      pathPart: "veterinary-services-for-bovine"
+      path: "/services/veterinary-services-for-bovine/"
+      sitemapPriority: -1
+      canonicalTagMode: 0
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/services/"
+    meta:
+      sort: 18
+      listed: true
+    data:
+      body_text: "<p style=\"text-align: center;\"><br />For farms with small to large herds of beef cattle we understand that it is important that they work with a large animal veterinarian with the flexibility to perform a range of services onsite. Our veterinary team is pleased to offer high quality large animal farm-call services.<br />Our large animal practitioners are well versed in providing a number of preventative, medical and surgical services on a farm-call basis and are well equipped to do so. Additionally, performing farm calls provides us with the opportunity to observe farm conditions and offer advice to help the farm owner and livestock perform at top levels of production.<br />In general, our services include:<br /> <br />Farm Calls &ndash; We will perform individual animal and herd examinations as well as review conditions on the farm to help the farmer maximize production and decrease likelihood of disease and injuries.<br /> <br />Vaccines &ndash; We are well-versed in large animal vaccines that promote individual animal and herd health.<br /> <br />Illness Prevention &ndash; In our county and our surrounding counties we do not see elevated levels of disease. However, there are a number of contagious diseases prevalent in our area. We offer preventative care as well as treating these diseases should they occur.<br /> <br />Bovine:<br /> <br />Preventative Care<br />Routine herd work and preventative medicine is probably the biggest aspect of bovine medicine. Trying to prevent certain diseases and conditions such as pneumonia and scours is much more beneficial than trying to treat after the fact. At Animal Health Center of Rolla, we recommend the following schedule of vaccinations and routine work for your herd:<br /> <br />Cows:<br /> <br />Vaccinations:<br />&middot; IBR<br />&middot; PI3<br />&middot; BVD<br />&middot; BRSV<br />&middot; Rotavirus<br />&middot; Coronavirus<br />&middot; Clostridium<br />&middot; E. coli.<br />&middot; Vibrio<br />&middot; Leptospirosis; including hardjo bovis when appropriate.<br />&middot; Pinkeye: appropriate for certain herds in the spring<br />*Regular Deworming<br />*Pregnancy checks when appropriate<br />*Fly Tags when appropriate<br /> <br />Calves:<br /> <br />Vaccinations:<br />&middot; IBR<br />&middot; PI3<br />&middot; BVD<br />&middot; BRSV+/- Haemophilus and Pasteurella<br />&middot; Brucellosis *calfhood vaccine give to heifers between 4-12 months of age, in which a tattoo is placed in the ear.<br />&middot; Blackleg *7-way clostridal vaccine<br />&middot; Pinkeye<br />*Castration for Bull Calves<br />*Dehorning if appropriate<br />*Deworming<br />*Fly Tags<br /> <br />Bulls:<br /> <br />Vaccinations:<br />&middot; IBR<br />&middot; PI3<br />&middot; BVD<br />&middot; BRSV<br />&middot; Vibrio<br />&middot; Leptospirosis including hardjo bovis when appropriate<br />*BSE (Breeding Soundness Exam)<br />*Regular Deworming<br />*Fly Tags when appropriate</p>"
+      main_image: "https://cb5py9.media.zestyio.com/unnamed--1-.BJDuAHbG4.jpg"
+      page_title: "Veterinary Services for Bovine"
+      sort_order: 18
+  - id: "06e1-ac91-c906"
+    web:
+      metaDescription: ""
+      metaTitle: "Dental Cleaning"
+      metaLinkText: "Dental Cleaning"
+      metaKeywords: null
+      pathPart: "dental-cleaning"
+      path: "/services/dental-cleaning/"
+      sitemapPriority: -1
+      canonicalTagMode: 0
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/services/"
+    meta:
+      sort: 10
+      listed: true
+    data:
+      body_text: "<p style=\"text-align: center;\">Our veterinarians evaluate your pet&rsquo;s mouth for disease, extract any teeth if necessary, clean and polish the teeth, and can perform minor oral surgery.<br />A dental cleaning is an important part of general healthcare maintenance for your pet. Pet&rsquo;s teeth are very similar to human&rsquo;s teeth and dental disease is very common in pets. Routine dental care is recommended because maintaining good oral health will greatly improve the health and breathe of your pet. Teeth cleaning procedures completed at our hospital, followed by recommended home care treatments, are the best way to ensure the long life of your pet&rsquo;s teeth.<br />Your pet is placed under anesthesia while this is being done. This assures that we can perform the necessary procedures safely and completely without damaging the teeth enamel. Our procedure is more than just scraping the tartar off. It may include, but is not limited to; hand and/or ultra sonic cleaning, sub-gingival cleaning, extractions, polishing, application of fluoride and enamel sealant. Medical studies show that pets live longer, healthier and happier lives when they have routine dental care as needed for each individual pet. The teeth are a potential source of life-threatening infection to the heart, liver, and kidneys if periodontal disease develops.</p>"
+      main_image: "https://cb5py9.media.zestyio.com/unnamed.H14wCrbMV.jpg"
+      page_title: "Dental Cleaning"
+      sort_order: 10

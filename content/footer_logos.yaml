@@ -1,0 +1,21 @@
+
+  - id: "b000-6126-b024"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 1
+      listed: true
+    data:
+      footer_logo: "https://ddp2ys.media.zestyio.com/PetDesk-Logo-large-.png"
+      logo_title: ""
+      sort_order: 1
